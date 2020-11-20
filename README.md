@@ -9,7 +9,7 @@ You will find most of popular math methods such as: sqrt(), getFactorial() in th
 * ...
 
 ### Connect me via:
-[Facebook](http://facebook.com/quang.thanh)
+[Facebook](https://www.facebook.com/profile.php?id=100006919245791)
 [Email](mailto:falconbusterxx@gmail.com)
 
 ### © 2020 by quang.thanh | FPT University, HCMC
